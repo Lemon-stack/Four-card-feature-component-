@@ -1,6 +1,5 @@
 # Project Name
-I made a four-card-feature section for a frontendmentor challenge.
-You can check it out here - https://lemon-stack.github.io/Four-card-feature-section/
+Four-card-feature section
 
 ## Table of Contents
 
@@ -8,6 +7,7 @@ You can check it out here - https://lemon-stack.github.io/Four-card-feature-sect
 - [Technologies Used](#technologies-used)
 
 ## Demo
+https://lemon-stack.github.io/Four-card-feature-section/
 
 ## Technologies Used
 
